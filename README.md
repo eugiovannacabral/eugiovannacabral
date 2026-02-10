@@ -28,9 +28,11 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 ---
-##Ferramentas utilizadas
+## 🧰 Ferramentas utilizadas
 <img width="960" height="960" alt="image" src="https://github.com/user-attachments/assets/6b075028-f9c8-44dc-9205-455fc573ce07" /> 
 <img width="632" height="395" alt="image-removebg-preview (20)" src="https://github.com/user-attachments/assets/1382e3be-45d3-4a80-82dc-3c4d5ddb9b4e" />
 <img width="348" height="350" alt="image" src="https://github.com/user-attachments/assets/72168e56-468d-400f-94c0-6defcceee5bb" />
 <img width="500" height="500" alt="image-removebg-preview (21)" src="https://github.com/user-attachments/assets/0a0d9442-1c64-4c6a-9c8e-543018915bac" />
+<img width="348" height="350" alt="image-removebg-preview (24)" src="https://github.com/user-attachments/assets/0b80ea99-bd70-48c3-a92c-bfbaf8a3dcc1" />
+<img width="500" height="500" alt="image-removebg-preview (23)" src="https://github.com/user-attachments/assets/15a1df23-ed89-4ada-858a-1040168ae8d3" />
 
