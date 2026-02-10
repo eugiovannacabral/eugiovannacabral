@@ -29,8 +29,10 @@
 
 ---
 ## 🧰 Ferramentas utilizadas
-<img width="960" height="960" alt="image" src="https://github.com/user-attachments/assets/6b075028-f9c8-44dc-9205-455fc573ce07" /> 
-<img width="632" height="395" alt="image-removebg-preview (20)" src="https://github.com/user-attachments/assets/1382e3be-45d3-4a80-82dc-3c4d5ddb9b4e" />
-<img width="500" height="500" alt="image-removebg-preview (21)" src="https://github.com/user-attachments/assets/0a0d9442-1c64-4c6a-9c8e-543018915bac" />
-<img width="348" height="350" alt="image-removebg-preview (24)" src="https://github.com/user-attachments/assets/0b80ea99-bd70-48c3-a92c-bfbaf8a3dcc1" />
+## 🧰 Ferramentas utilizadas
+
+<img width="120" src="https://github.com/user-attachments/assets/6b075028-f9c8-44dc-9205-455fc573ce07" />
+<img width="120" src="https://github.com/user-attachments/assets/1382e3be-45d3-4a80-82dc-3c4d5ddb9b4e" />
+<img width="120" src="https://github.com/user-attachments/assets/0a0d9442-1c64-4c6a-9c8e-543018915bac" />
+<img width="120" src="https://github.com/user-attachments/assets/0b80ea99-bd70-48c3-a92c-bfbaf8a3dcc1" />
 
