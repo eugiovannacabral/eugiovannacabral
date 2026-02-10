@@ -8,5 +8,7 @@
 
 🎓 Estudante de **Engenharia de Software** no Inatel  
 💡 Atualmente explorando sobre **IA, Machine Learning e HTML**
-💻Experiência em **C++**, **YOLOv11** e **Phyton**
+💻 Experiência em **C++**, **YOLOv11** e **Phyton**
 🚀 Desenvolvendo projetos com **YOLOv11** e tecnologias modernas  
+
+---
