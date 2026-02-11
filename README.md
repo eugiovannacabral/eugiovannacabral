@@ -8,7 +8,7 @@
 
 🎓 Estudante de **Engenharia de Software** no Inatel(5° período) 
 
-💡 Atualmente explorando sobre **IA, Machine Learning e HTML**
+💡 Atualmente explorando sobre **IA, IOT, Visão Computacional e HTML**
 
 💻 Experiência em **C++**, **YOLOv11** e **Phyton**
 
@@ -36,4 +36,6 @@
   <img src="https://github.com/user-attachments/assets/5709ed33-a3c3-4b15-9554-0cfbf480b4da" width="218" height="65"/>
 </div>
 
-
+# Experiências
+- Bolsista de Iniciação Científica no laboratório IOT group
+- 
