@@ -29,13 +29,16 @@
 
 ---
 ## 🧰 Ferramentas utilizadas
-
-## 🛠️ ferramentas
-
 <p align="center">
   <img src="https://github.com/user-attachments/assets/6b075028-f9c8-44dc-9205-455fc573ce07" width="70"/>
+
   <img src="https://github.com/user-attachments/assets/1382e3be-45d3-4a80-82dc-3c4d5ddb9b4e" width="120"/>
-  <img src="https://github.com/user-attachments/assets/0a0d9442-1c64-4c6a-9c8e-543018915bac" width="100"/>
+
+  <img src="https://github.com/user-attachments/assets/0a0d9442-1c64-4c6a-9c8e-543018915bac"
+       width="100"
+       style="margin-top: 8px; margin-left: -6px;" />
+
   <img src="https://github.com/user-attachments/assets/0b80ea99-bd70-48c3-a92c-bfbaf8a3dcc1" width="70"/>
 </p>
+
 
