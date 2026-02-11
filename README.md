@@ -32,7 +32,7 @@
 <div align="center">
 <img src="https://github.com/user-attachments/assets/6b075028-f9c8-44dc-9205-455fc573ce07" width="70"/> 
 <img src="https://github.com/user-attachments/assets/1382e3be-45d3-4a80-82dc-3c4d5ddb9b4e" width="120"/> 
-<img src="https://github.com/user-attachments/assets/3ee2f236-cf14-4331-9cbb-0e3fa53b67ff" width="100"/>
+<img width="100"src="https://github.com/user-attachments/assets/0c2af66a-26fd-41c3-8217-d997f92afcb8" />
 <img src="https://github.com/user-attachments/assets/0b80ea99-bd70-48c3-a92c-bfbaf8a3dcc1" width="70"/> 
 </div>
 
