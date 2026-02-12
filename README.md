@@ -78,6 +78,7 @@
 </div>
 
 <div align="center">
-![@anasabdin · AnasAbdin](https://github.com/user-attachments/assets/6039b879-2139-4238-9b36-4106f63e951b)
+  
+![@anasabdin · AnasAbdin (1)](https://github.com/user-attachments/assets/9d1f8642-dd9c-4290-aceb-93edb6b16277)
 
 </div>
