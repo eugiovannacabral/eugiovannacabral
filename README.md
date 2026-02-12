@@ -49,10 +49,14 @@
 </div>
 
 
+<div align="center">
 
-<p align="center">
-  ## 📫 Vamos nos conectar?
-  <a href="https://www.linkedin.com/in/giovanna-cabral-794371216?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+<h2>📫 Vamos nos conectar?</h2>
+
+<br>
+
+<a href="https://www.linkedin.com/in/giovanna-cabral-794371216" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</div>
