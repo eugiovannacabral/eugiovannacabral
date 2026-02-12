@@ -38,4 +38,12 @@
 
 # Experiências
 - Bolsista de **Iniciação Científica** no laboratório **IOT group**
-- Monitoria 
+- Monitora de Matemática e Física
+- Em 2024 fui participei do Start Computação e Software ensinado Python para alunos de Ensino Médio da região Sul mineira 
+
+## 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=eugiovannacabral&show_icons=true&theme=radical" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eugiovannacabral&layout=compact&theme=radical" />
+</p>
