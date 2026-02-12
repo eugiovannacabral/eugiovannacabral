@@ -36,7 +36,7 @@
   <img src="https://github.com/user-attachments/assets/5709ed33-a3c3-4b15-9554-0cfbf480b4da" width="218" height="65"/>
 </div>
 
-# Experiências
+## Experiências
 - Bolsista de **Iniciação Científica** no laboratório **IOT group**
 - **Monitora** de **Matemática** e **Física**
 - Em 2024 fui participei do **Start Computação e Software** ensinado **Python** para alunos de **Ensino Médio** da região Sul mineira 
