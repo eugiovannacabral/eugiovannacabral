@@ -40,6 +40,8 @@
   <img src="https://github.com/user-attachments/assets/5709ed33-a3c3-4b15-9554-0cfbf480b4da" width="218" height="65"/>
 </div>
 
+<hr/>
+
 ## Experiências
 - Bolsista de **Iniciação Científica** no laboratório **IOT group**
 - **Monitora** de **Matemática** e **Física**
@@ -63,6 +65,10 @@
 
 <a href="https://www.linkedin.com/in/giovanna-cabral-794371216" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://www.instagram.com/giov.annacabral/?hl=pt-br" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
 </div>
