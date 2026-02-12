@@ -6,7 +6,7 @@
 ---
 ## 👩‍💻 Sobre mim
 
-🎓 Estudante de **Engenharia de Software** no Inatel(5° período) 
+🎓 Estudante de **Engenharia de Software** no Inatel (5° período) 
 
 💡 Atualmente explorando sobre **IA, IOT, Visão Computacional e HTML**
 
@@ -38,8 +38,8 @@
 
 # Experiências
 - Bolsista de **Iniciação Científica** no laboratório **IOT group**
-- Monitora de Matemática e Física
-- Em 2024 fui participei do Start Computação e Software ensinado Python para alunos de Ensino Médio da região Sul mineira 
+- **Monitora** de **Matemática** e **Física**
+- Em 2024 fui participei do **Start Computação e Software** ensinado **Python** para alunos de **Ensino Médio** da região Sul mineira 
 
 ## 📊 Estatísticas do GitHub
 
