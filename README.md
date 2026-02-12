@@ -1,11 +1,8 @@
-# Oi, aqui é a Gi ! Seja Bem-vindo 💌
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Paris&size=25&duration=4999&pause=997&color=9A2B98&width=435&lines=Hello%2C+I%60m++Giovanna+Cabral++!;But+you+can+call+me+Gi;Please+be+welcome++%E2%99%A1+%E2%8B%86%EF%BD%A1%CB%9A%E2%9D%80%E2%99%A1+%E2%8B%86%EF%BD%A1+%CB%9A)](https://git.io/typing-svg)
-
 <div align="center">
   <img src="https://github.com/user-attachments/assets/fbd15bad-24eb-46c2-ad78-789f9290c776">
 </div>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Paris&size=25&duration=4999&pause=997&color=E2254B&width=435&lines=Hello%2C+I%60m++Giovanna+Cabral++!;But+you+can+call+me+Gi;Please+be+welcome++%E2%99%A1+%E2%8B%86%EF%BD%A1%CB%9A%E2%9D%80%E2%99%A1+%E2%8B%86%EF%BD%A1+%CB%9A)](https://git.io/typing-svg)
 ---
 ## 👩‍💻 Sobre mim
 
