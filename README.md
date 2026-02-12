@@ -6,6 +6,8 @@
 
 </div>
 
+<hr/>
+
 ## 👩‍💻 Sobre mim
 
 🎓 Estudante de **Engenharia de Software** no Inatel (5° período) 
@@ -52,6 +54,8 @@
 
 
 <div align="center">
+
+<hr/>
 
 <h2>📫 Vamos nos conectar?</h2>
 
