@@ -47,3 +47,12 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=eugiovannacabral&sideLabels=ffffff&currStreakNum=d84d78&sideNums=d84d78&currStreakLabel=d84d78&background=00000000&dates=ffffff&hide_border=true&fire=d84d78" alt="GitHub Streak" />
 </div>
+
+
+
+<p align="center">
+  ## 📫 Vamos nos conectar?
+  <a href="https://www.linkedin.com/in/giovanna-cabral-794371216?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
