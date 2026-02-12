@@ -71,4 +71,8 @@
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
+<a href="mailto:assessoriagiovannacabral@gmail.com">
+  <img src="https://img.shields.io/badge/Email-FFD700?style=for-the-badge&logo=gmail&logoColor=black" />
+</a>
+
 </div>
