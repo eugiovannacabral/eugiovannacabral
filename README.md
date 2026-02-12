@@ -43,6 +43,8 @@
 - **Monitora** de **Matemática** e **Física**
 - Em 2024 fui participei do **Start Computação e Software** ensinado **Python** para alunos de **Ensino Médio** da região Sul mineira 
 
+<hr/>
+
 ## 📊 Estátisticas do Github
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=eugiovannacabral&sideLabels=ffffff&currStreakNum=d84d78&sideNums=d84d78&currStreakLabel=d84d78&background=00000000&dates=ffffff&hide_border=true&fire=d84d78" alt="GitHub Streak" />
