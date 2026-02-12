@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="https://github.com/user-attachments/assets/fbd15bad-24eb-46c2-ad78-789f9290c776">
+![@anasabdin · AnasAbdin (1)](https://github.com/user-attachments/assets/9d1f8642-dd9c-4290-aceb-93edb6b16277)  
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Paris&size=25&duration=4999&pause=997&color=FEFF57&width=435&lines=Hello%2C+I%60m++Giovanna+Cabral++!;But+you+can+call+me+Gi;Please+be+welcome++%E2%99%A1+%E2%8B%86%EF%BD%A1%CB%9A%E2%9D%80%E2%99%A1+%E2%8B%86%EF%BD%A1+%CB%9A)](https://git.io/typing-svg)
 
@@ -77,8 +77,9 @@
 
 </div>
 
+
 <div align="center">
-  
-![@anasabdin · AnasAbdin (1)](https://github.com/user-attachments/assets/9d1f8642-dd9c-4290-aceb-93edb6b16277)
+
+ <img src="https://github.com/user-attachments/assets/fbd15bad-24eb-46c2-ad78-789f9290c776">
 
 </div>
