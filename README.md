@@ -37,5 +37,5 @@
 </div>
 
 # Experiências
-- Bolsista de Iniciação Científica no laboratório IOT group
-- 
+- Bolsista de **Iniciação Científica** no laboratório **IOT group**
+- Monitoria 
