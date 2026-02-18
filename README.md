@@ -55,7 +55,7 @@
 </div>
 
 ## 💌 Um pouco mais sobre mim
-Quando eu não estou estudando, vocês provavelmente vão me encontrar pelos corredores dando altas risadas com alguém. Eu adoro interagir com outras pessoas e conhecer sobre diferentes histórias de vida, mas também gosto de ficar na minha própia companhia as vezes, mas quem não né ? Além disso, eu passo meu tempo livre pesquisando sobre assuntos como Neurociência, Feminilidade e Catolicismo; eu gosto de dançar, desenhar, conhecer outros lugares e de me desafiar na cozinha também.
+Quando eu não estou estudando, vocês provavelmente vão me encontrar pelos corredores dando altas risadas com alguém. Eu adoro interagir com outras pessoas e conhecer sobre diferentes histórias de vida, mas também gosto de ficar na minha própia companhia, quem não né ? Além disso, eu passo meu tempo livre pesquisando sobre assuntos como Neurociência, Feminilidade e Catolicismo; eu gosto de dançar, desenhar, conhecer outros lugares e de me desafiar na cozinha também.
 
 <div align="center">
 
