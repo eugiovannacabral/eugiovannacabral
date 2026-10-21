@@ -10,13 +10,13 @@
 
 ## 👩‍💻 Sobre mim
 
-🎓 Estudante de **Engenharia de Software** no Inatel (5° período) 
+🎓 Estudante de **Engenharia de Software** no Inatel (6° período) 
 
-💡 Atualmente explorando sobre **IA, IOT, Visão Computacional e HTML**
+💡 Atualmente explorando sobre **IA, IOT, Visão Computacional e Engenharia de Software**
 
-💻 Experiência em **C++**, **YOLOv11** e **Phyton**
+💻 Experiência em **Java**, **C++**, **YOLOv11** e **Phyton**
 
-🚀 Desenvolvendo projetos com **YOLOv11** e tecnologias modernas  
+🚀 Desenvolvendo projetos com **Lua** e tecnologias modernas  
 
 ---
 
@@ -43,7 +43,7 @@
 <hr/>
 
 ## Experiências
-- Bolsista de **Iniciação Científica** no laboratório **IOT group**
+- Bolsista de **Iniciação Científica** no laboratório **IOT group** desenvolvendo projeto com Visão Computacional
 - **Monitora** de **Matemática** e **Física**
 - Em 2024 fui participei do **Start Computação e Software** ensinado **Python** para alunos de **Ensino Médio** da região Sul mineira 
 
